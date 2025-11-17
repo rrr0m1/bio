@@ -32,7 +32,7 @@ I love transforming ideas into projects, exploring new technologies, and writing
 - [Web Project Example](#) – Responsive website using HTML, CSS, Tailwind & JS  
 - [Automation Script](#) – Server automation tools for Ubuntu environments  
 
-*(Replace the links with your real projects)*
+
 
 ---
 
