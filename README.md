@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YourUsername] — 16-Year-Old Full-Stack & Bot Developer
+# 👋 Hi, I'm [rr0m1] — 16-Year-Old Full-Stack & Bot Developer
 
 I'm a **16-year-old developer** passionate about building **Discord bots**, **web applications**, and automating workflows.  
 I love transforming ideas into projects, exploring new technologies, and writing **clean, efficient, and maintainable code**.
@@ -37,7 +37,7 @@ I love transforming ideas into projects, exploring new technologies, and writing
 ---
 
 ## 📫 Connect with Me
-- GitHub: [YourUsername](https://github.com/YourUsername)  
-- Discord: `YourDiscord#1234`  
+- GitHub: [rrr0m1](https://github.com/YourUsername)  
+- Discord: `xrzn.cc`  
 
 ---
