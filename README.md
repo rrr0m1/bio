@@ -1,4 +1,4 @@
-# 👋 Hi, I'm rr0m1 — 16-Year-Old Full-Stack & Bot Developer
+# 👋 Hi, I'm rr0m1 — 16 Year Old Full-Stack & Bot Developer
 
 I'm a **16-year-old developer** passionate about building **Discord bots**, **web applications**, and automating workflows.  
 I love transforming ideas into projects, exploring new technologies, and writing **clean, efficient, and maintainable code**.
