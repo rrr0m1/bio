@@ -27,15 +27,6 @@ I love transforming ideas into projects, exploring new technologies, and writing
 
 ---
 
-## 📂 Featured Projects
-- [Discord Bot Example](#) – A feature-rich Discord bot built with Python  
-- [Web Project Example](#) – Responsive website using HTML, CSS, Tailwind & JS  
-- [Automation Script](#) – Server automation tools for Ubuntu environments  
-
-
-
----
-
 ## 📫 Connect with Me
 - GitHub: [rrr0m1](https://github.com/YourUsername)  
 - Discord: `xrzn.cc`  
